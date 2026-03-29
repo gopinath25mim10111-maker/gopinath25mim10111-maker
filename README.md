@@ -8,3 +8,8 @@
 - Improve coding skills  
 - Build real-world projects  
 - Become successful in tech field  
+
+ Skills
+- Basic Python  
+- Problem Solving  
+- Communication  
