@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Gopi
 
-<!--
-**gopinath25mim10111-maker/gopinath25mim10111-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year Integrated M.Tech student in Artificial Intelligence at VIT Bhopal. I am building a foundation in programming, machine learning, and responsible AI through coursework and hands-on projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Integrated M.Tech Artificial Intelligence at VIT Bhopal
+- Interested in machine learning, data-driven problem solving, and practical AI applications
+- Currently strengthening my foundations in Python, data analysis, and machine learning
+
+## Skills and Tools
+
+- Programming: Python
+- Concepts: Machine Learning Fundamentals, Data Analysis, Classification
+- Tools: Git, GitHub, Jupyter Notebook
+
+> I update this section as I learn and use new tools in projects.
+
+## Featured Projects
+
+### Loan Credit Risk Classifier
+
+A machine learning project that explores predicting loan credit risk from applicant and financial data.
+
+- Focus: data preprocessing, exploratory analysis, and classification
+- Goal: understand how machine learning can support risk assessment
+- Repository: [Add your project link here]
+
+### AI-Based Document and Tender Verification
+
+An ongoing research-oriented project exploring how AI can help verify documents and tender-related information.
+
+- Focus: document analysis, verification workflows, and AI-assisted review
+- Status: Research and development
+- Repository: [Add your project link here when available]
+
+## Currently Learning
+
+- Strengthening Python and data structures fundamentals
+- Building machine learning models with clean, well-documented workflows
+- Learning about natural language processing and document intelligence
+- Improving GitHub project documentation and collaboration practices
+
+## Connect
+
+- LinkedIn: [Add your LinkedIn profile link]
+- Email: [Add a professional email address]
+- Portfolio: [Add later, when available]
+
+---
+
+Thank you for visiting my profile.
