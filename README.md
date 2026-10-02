@@ -24,7 +24,7 @@ A machine learning project that explores predicting loan credit risk from applic
 
 - Focus: data preprocessing, exploratory analysis, and classification
 - Goal: understand how machine learning can support risk assessment
-- Repository: [Add your project link here]
+- Repository: 
 
 ### AI-Based Document and Tender Verification
 
@@ -32,7 +32,7 @@ An ongoing research-oriented project exploring how AI can help verify documents 
 
 - Focus: document analysis, verification workflows, and AI-assisted review
 - Status: Research and development
-- Repository: [Add your project link here when available]
+- Repository: 
 
 ## Currently Learning
 
@@ -43,9 +43,9 @@ An ongoing research-oriented project exploring how AI can help verify documents 
 
 ## Connect
 
-- LinkedIn: [Add your LinkedIn profile link]
-- Email: [Add a professional email address]
-- Portfolio: [Add later, when available]
+- LinkedIn: 
+- Email: 
+- Portfolio: 
 
 ---
 
