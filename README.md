@@ -1,6 +1,6 @@
 # Hi, I'm Gopi
 
-I am a first-year Integrated M.Tech student in Artificial Intelligence at VIT Bhopal. I am building a foundation in programming, machine learning, and responsible AI through coursework and hands-on projects.
+I am a Second-year Integrated M.Tech student in Artificial Intelligence at VIT Bhopal. I am building a foundation in programming, machine learning, and responsible AI through coursework and hands-on projects.
 
 ## About Me
 
@@ -10,9 +10,9 @@ I am a first-year Integrated M.Tech student in Artificial Intelligence at VIT Bh
 
 ## Skills and Tools
 
-- Programming: Python
+- Programming: Python, C++, C
 - Concepts: Machine Learning Fundamentals, Data Analysis, Classification
-- Tools: Git, GitHub, Jupyter Notebook
+- Tools: Git, GitHub, Jupyter Notebook, vs code, Antigravity
 
 > I update this section as I learn and use new tools in projects.
 
